@@ -1,8 +1,6 @@
 <!-- Matrix Digital Rain Effect -->
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
 
-# <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30"> P̷̛̩̗̫̖̖̲̤͙̫̭̽͗̓̀͗̚r̴̼̘͎̯̝̞̯̺̬̙͚̋̈́͊͊̂́̔̓̄̒̈́͠a̷̧̡̪̦̙̼̣̞̯̹̩̗̬̎̈́̂͂ͅͅḃ̴̢̘̤̟̟͎̟̘̟̖̳͎̲̤̥̓̄̄̽͂̑̉͒̆̃̀͐̚h̴̞̗̥̤̮̹̖̪͍̦̱̝̆̊̈́̎́̌̕̚͘͠d̴̢̬̜͙̭̫̙̜͎̩̣̮̅̑̏̀̄̽̈́͑̓͝e̶̢̙̝̱̦̻̜̱̤̘͇̮̤̮̋̓̄̏̇͑̚̚͜ȅ̴̗̥̤̟̜̪̏̄̅̉̓̐̇̏̚͜͠p̷̧̡̢̖̣͕̞̦̅͜͝ ̴̨͚̦̬̠̝̟̭̱̮̓̊͆̔͐̌̚͝S̴̛̖̞̻̘̫̝̟̥̘̉̒̎̀͋̍͂̽͐̚͝ĩ̸̧̨̛̼̩̮̠̠̖͚͈͔͎͍̔̎̈́̔̋̈́̈́̂̊̕͘͝ṅ̴̡̫̥̼͓̠͕̜̟̺̤̲̝͊̕͜g̴̨̧̟̜̲̬̥̥̺̜̼̘̓̅̌̓h̷̺̺̦̘̗̦̪̿̒̍̋̿̈́̑̅̅̄̚͝
-
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3Jhc3U3d3Vlb3J5aGJicGJiZmx1ZjVmMngzdWFiM2Y3ZWdldGxpcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/077i6AULCXc0FKTj9s/giphy.gif" width="350">
 
