@@ -48,7 +48,7 @@ from cryptography.fernet import Fernet
 
 class BlackHat:
     def __init__(self):
-        self.handle = "Prabhdeep Singh"
+        self.handle = "MJforti"
         self.location = "Behind Proxies"
         self.status = "ACTIVELY HUNTING VULNERABILITIES"
         
