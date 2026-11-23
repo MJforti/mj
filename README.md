@@ -1,275 +1,53 @@
-<!-- Matrix Digital Rain Effect -->
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
-# <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30"> <span style="font-size: 150px; font-weight: bold;">M̷̛̩̗̫̖̖̲̤͙̫̭̽͗̓̀͗̚J̴̼̘͎̯̝̞̯̺̬̙͚̋̈́͊͊̂́̔̓̄̒̈́͠f̷̧̡̪̦̙̼̣̞̯̹̩̗̬̎̈́̂͂ͅͅo̴̢̘̤̟̟͎̟̘̟̖̳͎̲̤̥̓̄̄̽͂̑̉͒̆̃̀͐̚r̴̞̗̥̤̮̹̖̪͍̦̱̝̆̊̈́̎́̌̕̚͘͠t̴̢̬̜͙̭̫̙̜͎̩̣̮̅̑̏̀̄̽̈́͑̓͝i̶̢̙̝̱̦̻̜̱̤̘͇̮̤̮̋̓̄̏̇͑̚̚͜͠</span>
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3Jhc3U3d3Vlb3J5aGJicGJiZmx1ZjVmMngzdWFiM2Y3ZWdldGxpcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/077i6AULCXc0FKTj9s/giphy.gif" width="350">
-
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0CFF00&center=true&vCenter=true&width=435&lines=Cybersecurity+Enthusiast;Backend+Developer;Dark+Web+Specialist;Privacy+Advocate;System+Infiltrator)](https://git.io/typing-svg)
-
-  <img src="https://github.com/Suri-Comp/SuriComp/raw/main/assets/borderseperator.gif" width="100%">
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-
-<div align="center">
-  
-[![Linkedin](https://img.shields.io/badge/-Connect_With_Me-0a66c2?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prabhdeep-singh-313359242/)](https://www.linkedin.com/in/prabhdeep-singh-313359242/)
-[![Gmail](https://img.shields.io/badge/-prabhdeep1701@gmail.com-ea4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:prabhdeep1701@gmail.com)](mailto:prabhdeep1701@gmail.com)
-[![GitHub](https://img.shields.io/badge/-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/Prabhdeep1701)](https://github.com/Prabhdeep1701)
-
-</div>
-
-<img src="https://github.com/SudeepKumarS/SudeepKumarS/raw/main/assets/r.gif" width="100%">
-
-
-███████╗██╗   ██╗███████╗████████╗███████╗███╗   ███╗    ██╗    ██╗ █████╗ ██████╗ ███╗   ██╗██╗███╗   ██╗ ██████╗ 
-██╔════╝╚██╗ ██╔╝██╔════╝╚══██╔══╝██╔════╝████╗ ████║    ██║    ██║██╔══██╗██╔══██╗████╗  ██║██║████╗  ██║██╔════╝ 
-███████╗ ╚████╔╝ ███████╗   ██║   █████╗  ██╔████╔██║    ██║ █╗ ██║███████║██████╔╝██╔██╗ ██║██║██╔██╗ ██║██║  ███╗
-╚════██║  ╚██╔╝  ╚════██║   ██║   ██╔══╝  ██║╚██╔╝██║    ██║███╗██║██╔══██║██╔══██╗██║╚██╗██║██║██║╚██╗██║██║   ██║
-███████║   ██║   ███████║   ██║   ███████╗██║ ╚═╝ ██║    ╚███╔███╔╝██║  ██║██║  ██║██║ ╚████║██║██║ ╚████║╚██████╔╝
-╚══════╝   ╚═╝   ╚══════╝   ╚═╝   ╚══════╝╚═╝     ╚═╝     ╚══╝╚══╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝╚═╝  ╚═══╝ ╚═════╝ 
-
-
-## <img src="https://media.giphy.com/media/jSVxBdXWMgQ80ORsnV/giphy.gif" width="40"> Cybersecurity Specialist | Backend Developer | Privacy Advocate
-
-<div align="center">
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="450">
-</div>
-
-python
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-
-import os
-import sys
-import time
-from cryptography.fernet import Fernet
-
-class BlackHat:
-    def __init__(self):
-        self.handle = "MJforti"
-        self.location = "Behind Proxies"
-        self.status = "ACTIVELY HUNTING VULNERABILITIES"
-        
-        # Generate encryption key
-        self.key = Fernet.generate_key()
-        self.cipher = Fernet(self.key)
-        
-        # Initialize skill matrix
-        self.skills = {
-            "languages": self.encrypt(["Python", "Java", "C", "Rust"]),
-            "security_tools": self.encrypt(["nmap", "Wireshark", "Burp Suite", "Metasploit"]),
-            "frameworks": self.encrypt(["Flask", "Django", "PyQt6"]),
-            "specialized_in": self.encrypt(["Dark Web Development", "Privacy Systems", "API Security"])
-        }
-        
-    def encrypt(self, data):
-        return [self.cipher.encrypt(item.encode()).decode() for item in data]
-        
-    def decrypt(self, encrypted_data):
-        return [self.cipher.decrypt(item.encode()).decode() for item in encrypted_data]
-    
-    def scan_target(self, target):
-        print(f"\033[92m[+] Initializing reconnaissance on {target}\033[0m")
-        for i in range(101):
-            sys.stdout.write(f"\r\033[93m[*] Scanning progress: {i}%\033[0m")
-            sys.stdout.flush()
-            time.sleep(0.01)
-        print("\n\033[92m[+] Target vulnerabilities identified\033[0m")
-        
-    def breach_perimeter(self):
-        print("\033[91m[!] WARNING: Unauthorized access detected!\033[0m")
-        print("\033[92m[+] Bypassing security measures...\033[0m")
-        print("\033[92m[+] Establishing secure connection...\033[0m")
-        print("\033[92m[+] Access granted. Welcome to the system.\033[0m")
-
-# Initialize hacker
-hacker = BlackHat()
-hacker.scan_target("target_system")
-hacker.breach_perimeter()
-
-# Display decrypted skills
-print("\n\033[92m[+] Decrypted Skills Matrix:\033[0m")
-for category, items in hacker.skills.items():
-    decrypted = hacker.decrypt(items)
-    print(f"\033[96m{category.upper()}: {', '.join(decrypted)}\033[0m")
-
-
-<img src="https://github.com/SudeepKumarS/SudeepKumarS/raw/main/assets/r.gif" width="100%">
-
-## <img src="https://media.giphy.com/media/QTmfvHGklosYBkI8jX/giphy.gif" width="40"> 𝙏𝙚𝙘𝙝𝙣𝙞𝙘𝙖𝙡 𝘼𝙧𝙨𝙚𝙣𝙖𝙡
+<!--
+  This README is generated by scripts/build.py from scripts/content.py.
+  Edit the content file and run `python scripts/build.py`; the daily workflow does the same.
+-->
 
-<div align="center">
+<p align="center">
+  <img src="./assets/hero.svg" width="100%" alt="Manthan Jain. I turn manual workflows into software that runs itself. B.Tech CSE, Cloud Computing at Bennett University, class of 2028." />
+</p>
 
-![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=0D1117)
-![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00&labelColor=0D1117)
-![C](https://img.shields.io/badge/-C-0D1117?style=for-the-badge&logo=c&logoColor=A8B9CC&labelColor=0D1117)
-![Rust](https://img.shields.io/badge/-Rust-0D1117?style=for-the-badge&logo=rust&logoColor=orange&labelColor=0D1117)
-![HTML5](https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26&labelColor=0D1117)
-![CSS3](https://img.shields.io/badge/-CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=0D1117)
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=0D1117)
-![React](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0D1117)
-![Flask](https://img.shields.io/badge/-Flask-0D1117?style=for-the-badge&logo=flask&logoColor=white&labelColor=0D1117)
-![Django](https://img.shields.io/badge/-Django-0D1117?style=for-the-badge&logo=django&logoColor=092E20&labelColor=0D1117)
-![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624&labelColor=0D1117)
-![Kali Linux](https://img.shields.io/badge/-Kali_Linux-0D1117?style=for-the-badge&logo=kali-linux&logoColor=557C94&labelColor=0D1117)
-![Web Scraping](https://img.shields.io/badge/-Web_Scraping-0D1117?style=for-the-badge&logo=selenium&logoColor=43B02A&labelColor=0D1117)
+<p align="center">
+  <a href="https://github.com/MJforti"><img src="./assets/social/github.svg" height="44" alt="GitHub" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/mjf0rti"><img src="./assets/social/linkedin.svg" height="44" alt="LinkedIn" /></a>&nbsp;
+  <a href="https://leetcode.com/u/mjforti_/"><img src="./assets/social/leetcode.svg" height="44" alt="LeetCode" /></a>&nbsp;
+  <a href="https://portfolio-tawny-two-12.vercel.app"><img src="./assets/social/globe.svg" height="44" alt="Portfolio" /></a>
+</p>
 
-</div>
+<img src="./assets/status.svg" width="100%" alt="Status: GitHub contributions, streaks, 90-day activity, degree progress and language mix. Refreshed daily." />
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+<img src="./assets/about.svg" width="100%" alt="About me, written as manthan.yaml: CSE undergrad at Bennett University building toward cloud and AI systems engineering." />
 
-## <img src="https://media.giphy.com/media/3oEjHWpiVIOGXT5l9m/giphy.gif" width="40"> 𝙃𝙖𝙘𝙠𝙞𝙣𝙜 𝙋𝙧𝙤𝙟𝙚𝙘𝙩𝙨
+<img src="./assets/divider.svg" width="100%" alt="" />
 
-<div align="center">
-  <img src="https://media.giphy.com/media/l3vRmVv5P01I5NDAA/giphy.gif" width="500">
-</div>
+<img src="./assets/stack.svg" width="100%" alt="Stack: TypeScript, JavaScript, Python, C++, Java, SQL; React, Next.js, Tailwind CSS, Vite; Node.js, Express, FastAPI; PostgreSQL, Supabase, SQLite, Prisma; AWS, Google Cloud, Vercel, Docker; Gemini API, prompt engineering, LLM evaluation, RAG; Git, GitHub, pytest." />
 
-### <img src="https://media.giphy.com/media/UqGhQBkRLn1JSjg3DZ/giphy.gif" width="30"> 𝙍𝙖𝙙𝙖𝙧: 𝘿𝙖𝙧𝙠 𝙒𝙚𝙗 𝘽𝙧𝙤𝙬𝙨𝙚𝙧
+<img src="./assets/sections/work.svg" width="100%" alt="Selected work" />
 
+<a href="https://github.com/MJforti/Prompt-Injection"><img src="./assets/projects/contextshield.svg" width="100%" alt="ContextShield: Tests how prompt-engineering defenses hold up against indirect prompt injection: attack compliance, task accuracy and false refusals." /></a>
 
-┌──────────────────────────────────────────────────────────────────────────────────┐
-│ [root@darknet]:~# cat darkweb_browser.details                                    │
-├──────────────────────────────────────────────────────────────────────────────────┤
-│ 🔒 Tech Stack: Python | PyQt6 | SOCKS5 Proxy | Tor Integration                   │
-│                                                                                  │
-│ Advanced browser with custom-engineered onion routing, fingerprint               │
-│ obfuscation, and anti-tracking mechanisms. Enables secure and anonymous          │
-│ access to .onion domains and encrypted networks with zero-trace capabilities.    │
-└──────────────────────────────────────────────────────────────────────────────────┘
+<a href="https://github.com/MJforti/invoice-digitizer"><img src="./assets/projects/invoice-digitizer.svg" width="100%" alt="Invoice Digitizer: Turns multi-page PDF invoices and phone scans into verified Excel sheets with Gemini vision, model failover and live mobile-to-desktop sync." /></a>
 
+<a href="https://github.com/MJforti/Sampatti"><img src="./assets/projects/sampatti.svg" width="100%" alt="Sampatti: A family&#x27;s payments, EMIs, SIPs, insurance and tax deadlines in one place, with reminders before every due date." /></a>
 
-### <img src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif" width="30"> 𝙒𝙧𝙖𝙞𝙩𝙝: 𝘿𝙖𝙧𝙠 𝙒𝙚𝙗 𝙈𝙚𝙨𝙨𝙚𝙣𝙜𝙚𝙧
+<a href="https://github.com/MJforti/Bahubali-Stock-Management"><img src="./assets/projects/bahubali-stock.svg" width="100%" alt="Bahubali Stock: Live stock management for a multi-store hardware business, used by staff on their phones every day, with or without internet." /></a>
 
+<a href="https://github.com/MJforti/xTag-v1-ETHGlobal"><img src="./assets/projects/xtag.svg" width="100%" alt="xTag: An AI agent that can pay for what it needs: chat intent becomes a paid API call over the x402 protocol, with on-chain micropayments abstracted away." /></a>
 
-┌──────────────────────────────────────────────────────────────────────────────────┐
-│ [root@darknet]:~# cat wraith_messenger.details                                   │
-├──────────────────────────────────────────────────────────────────────────────────┤
-│ 🔐 Tech Stack: Python | Flask | SocketIO | PyCryptodome | PyQt6 | WebEngine      │
-│                                                                                  │
-│ Ultra-secure communication platform with military-grade encryption,              │
-│ quantum-resistant algorithms, and zero-knowledge architecture. Operates          │
-│ exclusively on dark web infrastructure with advanced anti-tracking               │
-│ protocols and message self-destruction capabilities.                             │
-└──────────────────────────────────────────────────────────────────────────────────┘
+<p align="center"><sub>Live: &nbsp;<a href="https://contextshield-iota.vercel.app">ContextShield</a> &nbsp;·&nbsp; <a href="https://sampatti-one.vercel.app">Sampatti</a> &nbsp;·&nbsp; <a href="https://bahubali-stock-management.vercel.app">Bahubali Stock</a></sub></p>
 
+<img src="./assets/divider.svg" width="100%" alt="" />
 
-### <img src="https://media.giphy.com/media/3oKIPvQTN3jly3nffW/giphy.gif" width="30"> 𝙍𝙚𝙩𝙧𝙤𝘾𝙡𝙤𝙪𝙙: 𝙎𝙚𝙘𝙪𝙧𝙚 𝙎𝙩𝙤𝙧𝙖𝙜𝙚 𝙉𝙚𝙩𝙬𝙤𝙧𝙠
+<img src="./assets/exploring.svg" width="100%" alt="Currently exploring: cloud architecture on AWS, LLM security and evaluation, agentic AI, automation, Kubernetes and Terraform." />
 
+<img src="./assets/sections/graph.svg" width="100%" alt="The graph" />
 
-┌──────────────────────────────────────────────────────────────────────────────────┐
-│ [root@darknet]:~# cat retrocloud.details                                         │
-├──────────────────────────────────────────────────────────────────────────────────┤
-│ 💾 Tech Stack: Python | Flask | pyngrok | CORS | Encrypted Storage               │
-│                                                                                  │
-│ Distributed storage system that repurposes legacy hardware into                  │
-│ secure nodes with end-to-end encryption and steganographic data                  │
-│ protection. Enables worldwide access through encrypted tunnels with              │
-│ plausible deniability features.                                                  │
-└──────────────────────────────────────────────────────────────────────────────────┘
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/generated/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/generated/snake-light.svg" />
+  <img src="./assets/generated/snake-dark.svg" width="100%" alt="A snake eating Manthan's GitHub contribution graph, regenerated daily." />
+</picture>
 
+<a href="https://www.linkedin.com/in/mjf0rti"><img src="./assets/connect.svg" width="100%" alt="Let’s build something that runs itself. Open to internships, collaborations and ambitious ideas. LinkedIn is the fastest way to reach me." /></a>
 
-### <img src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif" width="30"> 𝙏𝙖𝙡𝙤𝙣: 𝘽𝙪𝙜 𝘽𝙤𝙪𝙣𝙩𝙮 𝙏𝙤𝙤𝙡
-
-
-┌──────────────────────────────────────────────────────────────────────────────────┐
-│ [root@darknet]:~# cat bugbounty_tool.details                                     │
-├──────────────────────────────────────────────────────────────────────────────────┤
-│ 🛡 Tech Stack: Python | nmap | BeautifulSoup | Selenium | urllib                 │
-│                                                                                  │
-│ Advanced vulnerability scanner with automated penetration testing                │
-│ capabilities. Features intelligent payload generation, multi-vector              │
-│ attack simulation, and comprehensive vulnerability reporting with                │
-│ exploit proof-of-concept generators.                                             │
-└──────────────────────────────────────────────────────────────────────────────────┘
-
-
-<img src="https://github.com/SudeepKumarS/SudeepKumarS/raw/main/assets/r.gif" width="100%">
-
-## <img src="https://media.giphy.com/media/gU25raLP4pUu4/giphy.gif" width="40"> 𝙎𝙩𝙖𝙩𝙨 𝙈𝙖𝙩𝙧𝙞𝙭
-
-<div align="center">
-  <img src="https://media.giphy.com/media/5YbaZxpXY4qEIBr5B1/giphy.gif" width="200">
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prabhdeep1701&theme=chartreuse-dark&hide_border=true&background=0D1117&stroke=0D1117&fire=00FF00&currStreakNum=00FF00&ring=00FF00&currStreakLabel=00FF00&sideNums=00FF00&sideLabels=00FF00" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Prabhdeep1701&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00&text_color=00FF00" width="49%"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prabhdeep1701&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&layout=compact&title_color=00FF00&text_color=00FF00" width="42%"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=Prabhdeep1701&theme=matrix&no-frame=true&column=3&row=2" width="56%">
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-
-## <img src="https://media.giphy.com/media/3oKIPuHhw0NsQOqpKE/giphy.gif" width="40"> 𝙁𝙞𝙚𝙡𝙙 𝙊𝙥𝙚𝙧𝙖𝙩𝙞𝙤𝙣𝙨
-
-<div align="center">
-  <img src="https://media.giphy.com/media/S7u66urzxc2J2/giphy.gif" width="300">
-</div>
-
-
-╔══════════════════════════════════════════════════════════════════════════════╗
-║ [TARGET_1] Tech Co-Head @ CLTI BU                                            ║
-╠══════════════════════════════════════════════════════════════════════════════╣
-║ MISSION: Tactical leadership of covert development operations                ║
-║ STATUS: Active                                                               ║
-║ CLEARANCE: Level 5                                                           ║
-╚══════════════════════════════════════════════════════════════════════════════╝
-
-╔══════════════════════════════════════════════════════════════════════════════╗
-║ [TARGET_2] Management Core Member @ GDG BU                                   ║
-╠══════════════════════════════════════════════════════════════════════════════╣
-║ MISSION: Strategic coordination of high-risk event logistics                 ║
-║ STATUS: Active                                                               ║
-║ CLEARANCE: Level 4                                                           ║
-╚══════════════════════════════════════════════════════════════════════════════╝
-
-╔══════════════════════════════════════════════════════════════════════════════╗
-║ [TARGET_3] Tech Core Member @ DSS BU                                         ║
-╠══════════════════════════════════════════════════════════════════════════════╣
-║ MISSION: Execution of classified technical operations                        ║
-║ STATUS: Active                                                               ║
-║ CLEARANCE: Level 3                                                           ║
-╚══════════════════════════════════════════════════════════════════════════════╝
-
-
-<img src="https://github.com/SudeepKumarS/SudeepKumarS/raw/main/assets/r.gif" width="100%">
-
-## <img src="https://media.giphy.com/media/VDB85YZsrqMCY/giphy.gif" width="40"> 𝙎𝙮𝙨𝙩𝙚𝙢 𝙄𝙣𝙛𝙞𝙡𝙩𝙧𝙖𝙩𝙞𝙤𝙣 𝙏𝙧𝙖𝙞𝙣𝙞𝙣𝙜
-
-<div align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="300">
-</div>
-
-
-╭───────────────────────────────────────── SYSTEM ACCESS ─────────────────────────────────────────╮
-│                                                                                                 │
-│  [█████████████████████████████████████████░░░░░░░░░░░░░░░] 72%                                │
-│                                                                                                 │
-│  > Advanced exploitation techniques                                                            │
-│  > Blockchain security architecture                                                            │
-│  > Zero-knowledge proof systems                                                                │
-│  > Memory exploitation and reverse engineering                                                  │
-│  > Quantum-resistant cryptography                                                              │
-│                                                                                                 │
-╰─────────────────────────────────────────────────────────────────────────────────────────────────╯
-
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-
-<div align="center">
-  <img src="https://media.giphy.com/media/j3mdQpQ9SKxFOWs9gy/giphy.gif" width="400">
-  
-  <img src="https://profile-counter.glitch.me/Prabhdeep1701/count.svg" />
-  
-
-⚠ WARNING: Access to this system is monitored and logged. Unauthorized access is prohibited.
-
-</div>
-
-<!-- Matrix Digital Rain Effect -->
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
+<p align="center"><sub>Every card here is a hand-built SVG, re-rendered daily by GitHub Actions. &nbsp;<a href="./scripts/content.py">Edit the content</a></sub></p>
